@@ -1,2 +1,10 @@
 GET http://127.0.0.1:8080
 Content-Type: application/json
+
+###
+GET http://0.0.0.0:8080/discovery?lat=60.1709&lon=24.941
+Content-Type: application/json
+
+###
+GET http://0.0.0.0:8080/discovery?lat=56.85228963357595&lon=60.64089749109777
+Content-Type: application/json
